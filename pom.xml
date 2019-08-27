@@ -33,6 +33,12 @@
 			<scope>provided</scope>
 		</dependency>
 
+		<!-- Spring Boot Actuator Dependency -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		
 		<!-- Spring Boot Dev Tool Dependency -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
