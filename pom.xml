@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.atanu.java.springboot.gateway</groupId>
-	<artifactId>GatewaySvcBoot</artifactId>
+	<artifactId>gateway-svc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>GatewaySvcBoot</name>
+	<name>gateway-svc</name>
 	<description>Single point gateway service in microservice architecture</description>
 
 	<properties>
